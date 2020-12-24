@@ -1,0 +1,9 @@
+name: call-variants
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bwa=0.7.17=pl5.22.0_2
+  - samtools=1.10
+  - ivar=1.3
